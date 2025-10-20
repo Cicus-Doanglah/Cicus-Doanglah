@@ -20,3 +20,11 @@ Hello I am David, currently I am working at <a href=https://ameliore-solutions.c
 ### Connect with me
 [![fransiskusdavid Badge](https://img.shields.io/badge/fransiskusdavid-427bff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fransiskus-david-yudaputra-147929205/) [![fransiskusdavid Badge](https://img.shields.io/badge/fransiskusdavid-ffa3a3?style=flat-square&logo=gmail)](mailto:david.yudaputra@gmail.com) 
 ---
+
+### Github Statistics
+<p align="left">
+<a href="https://github.com/Cicus-Doanglah">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cicus-Doanglah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cicus-Doanglah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
