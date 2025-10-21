@@ -1,4 +1,4 @@
-### Hi there 👋 I'm David
+### Hi there 👋 I'm David, one of the Novelites
 ---
 
 <div align="center">
